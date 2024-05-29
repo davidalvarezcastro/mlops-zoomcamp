@@ -1,6 +1,9 @@
 
 # ignore all data using for jupyter notebooks
 data
+database
+mlruns
+*.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
